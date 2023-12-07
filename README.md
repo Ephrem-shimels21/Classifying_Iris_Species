@@ -8,7 +8,7 @@ I use the dataset from sklearn and the algorithm too. The dataset contains the m
 
 ### The iris flower looks as follow
 
-    ![Iris flower](https://github.com/Ephrem-shimels21/Classifying_Iris_Species/blob/main/iris.png)
+    ![Iris flower](./iris.png)
 
 In the dataset there are 150 different flowers. I splitted the data in two parts one part of the data(which is 75%) is to build our machine learning model. The rest of the data(which is 25%) is used to asses hwo well the model works.
 
